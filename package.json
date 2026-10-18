@@ -1,0 +1,27 @@
+{
+
+  "name": "rowedy-group-manager",
+
+  "version": "1.0.0",
+
+  "description": "Rowedy KINNG - FB Group Lock + Nickname Lock + Message Sender System",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node index.js"
+
+  },
+
+  "dependencies": {
+
+    "express": "^4.19.2",
+
+    "ws": "^8.18.0",
+
+    "fca-mafiya": "latest"
+
+  }
+
+}
